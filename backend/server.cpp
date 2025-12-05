@@ -1,8 +1,3 @@
-// This code is adapted from the C++ server repository that i created:
-// https://github.com/BradTheBJ/CPP-Server
-// Comments are included to provide a detailed explanation for readers
-// and to clarify how the server works.
-
 // Standard C++ libraries for I/O, strings, and file operations
 #include <iostream>      // For std::cout, std::cerr (console output)
 #include <string>         // For std::string (string manipulation)
