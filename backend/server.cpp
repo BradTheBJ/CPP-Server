@@ -110,7 +110,7 @@ int main(int argc, char const *argv[]) {
     // Returns a file descriptor (server_fd) or -1 on error
     int server_fd = socket(AF_INET, SOCK_STREAM, 0);
     if (server_fd < 0) {
-        perror("socket");  // Print error message
+        perror("socket");
         return 1;
     }
 
